@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firstApplication</string>
+    <string name="send_message">send</string>
+    <string name="button">Button</string>
+</resources>

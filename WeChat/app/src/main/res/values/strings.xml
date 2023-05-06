@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="default_" translatable="false">198727465287-jlo3rgjfurqu3ibjg9v51lpdp3ci6ihj.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
